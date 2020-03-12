@@ -2,10 +2,20 @@
 
 ![](4-key-customer-segmentation-methods-01.png)
 
-In this project I have worked with E-Commerce Data to facilitate Customers' Segmentation based on Recency, Frequency and Monetary behavior for Targeted Marketing strategies.
+RFM (Recency-Frequency-Monetary) analysis is a data-driven customer segmentation technique that allows marketers to take tactical decisions such as Targeted Marketing, Defining Customer Churn, Customer Loyalty Programs etcs.
 
-Few Highlights below:
 
-▪ Customers Segmentation based on Recency, Frequency and Monetary behavior (RFM Analysis) for Targeted Marketing strategies of 1 million e-commerce data points 
+In this project I have worked with Olist E-Commerce Data available on [kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce) to facilitate Customers' Segmentation by creating features on customer's Recency, Frequency and Monetary behavior for Targeted Marketing strategies.
 
-▪ Applied unsupervised K-Means Clustering resulting in 8 customer personas using elbow method using PySpark and HDFS offering Scalability 
+## Data Acquisition
+
+
+## Data Cleaning
+
+## Data Exploration and Viz
+
+## Feature Extraction
+
+## Unsupervized Machine Learning
+
+## Conclusion
